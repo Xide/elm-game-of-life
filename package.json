@@ -1,0 +1,10 @@
+{
+  "name": "game_of_life",
+  "version": "0.0.1",
+  "description": "Game of life using Elm",
+  "author": "Germain GAU",
+  "license": "MIT",
+  "scripts": {
+    "start": "elm-reactor"
+  }
+}
